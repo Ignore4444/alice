@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/thanos_pro"
-SUPPORT_GROUP = "https://t.me/thanosprosss"
+SUPPORT_CHANNEL = "https://t.me/NxCarderOfficial"
+SUPPORT_GROUP = "https://t.me/NxCarderOfficialChat"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "STRING_SESSION"
+STRING1 = "BQEubj8AcLpXACv574w0Q8KmTySh-2GM8wzSDYSqyiqGiwgDjGg5MXSpn6Vy9vFZ-cflYHJ3pcmKpezLSmT8GKQNgW20rcyvt0-t-iI5w1aQIM4al45f9WAfneMQ4frlnjG2KG6QdLYUoDx9iuIe8ZeeIkz7gvRR3NN3TpDa5VKhqXBaT5eykkPjbgpYrDPTlKPWLnylsosg2uuH0A2Yc9xID_t_zo5TMUucqsFhLJfSUscVD6_BUao2CpF_k9vkC-k06rKCaAwtZfQFXtDWp5hpaJL7wBZ67rHxMJuCNjlvRo4Fn4RBGYesvtpcXL2PPuE2lVdrqR_XClluCo3YlUirfrpQAAAAHWfAfyAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
